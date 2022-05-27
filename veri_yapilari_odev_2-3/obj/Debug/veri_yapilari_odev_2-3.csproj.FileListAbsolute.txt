@@ -1,0 +1,10 @@
+C:\Users\ensar\source\repos\veri_yapilari_odev_2-3\bin\Debug\veri_yapilari_odev_2-3.exe.config
+C:\Users\ensar\source\repos\veri_yapilari_odev_2-3\bin\Debug\veri_yapilari_odev_2-3.exe
+C:\Users\ensar\source\repos\veri_yapilari_odev_2-3\bin\Debug\veri_yapilari_odev_2-3.pdb
+C:\Users\ensar\source\repos\veri_yapilari_odev_2-3\obj\Debug\veri_yapilari_odev_2-3.csproj.AssemblyReference.cache
+C:\Users\ensar\source\repos\veri_yapilari_odev_2-3\obj\Debug\veri_yapilari_odev_2_3.Form1.resources
+C:\Users\ensar\source\repos\veri_yapilari_odev_2-3\obj\Debug\veri_yapilari_odev_2_3.Properties.Resources.resources
+C:\Users\ensar\source\repos\veri_yapilari_odev_2-3\obj\Debug\veri_yapilari_odev_2-3.csproj.GenerateResource.cache
+C:\Users\ensar\source\repos\veri_yapilari_odev_2-3\obj\Debug\veri_yapilari_odev_2-3.csproj.CoreCompileInputs.cache
+C:\Users\ensar\source\repos\veri_yapilari_odev_2-3\obj\Debug\veri_yapilari_odev_2-3.exe
+C:\Users\ensar\source\repos\veri_yapilari_odev_2-3\obj\Debug\veri_yapilari_odev_2-3.pdb
